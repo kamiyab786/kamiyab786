@@ -4,7 +4,7 @@
 
 ---
 
-<h2> <img src="https://img.icons8.com/?size=100&id=HmQQr0jYHZxu&format=png&color=000000" width="30px"> About Me :</h2>
+<h2> <img src="https://img.icons8.com/?size=100&id=HmQQr0jYHZxu&format=png&color=000000"> About Me :</h2>
 
 - <img src="https://img.icons8.com/emoji/16/000000/man-student.png"/> **Bachelor of Engineering** in **Information Technology** from **[L.D. College of Engineering](http://ldce.ac.in/)** with a CGPA of 8.90/10.  
    
