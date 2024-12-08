@@ -1,22 +1,18 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hey <img src="https://img.icons8.com/?size=100&id=dlN23b953qvQ&format=png&color=000000" width="30px">, I'm Kamiyab Husen Bhatt</h1>
+<h1 align="center">Hey 👋🏻, I'm Kamiyab Husen Bhatt</h1>
 
----
+<h2> ℹ️ About Me :</h2>
 
-<h2> <img src="https://img.icons8.com/?size=100&id=HmQQr0jYHZxu&format=png&color=000000"> About Me :</h2>
-
-- <img src="https://img.icons8.com/emoji/16/000000/man-student.png"/> **Bachelor of Engineering** in **Information Technology** from **[L.D. College of Engineering](http://ldce.ac.in/)** with a CGPA of 8.90/10.  
+- 🎓**Bachelor of Engineering** in **Information Technology** from **[L.D. College of Engineering](http://ldce.ac.in/)**.  
    
-- <img src="https://img.icons8.com/office/16/000000/system-information.png"/> **Software Engineer** with **2.5+ years** of professional experience. Currently working with **BBC** and formerly at **Capgemini**.  
+- 👨🏻‍💻**Software Engineer** with **2.5+ years** of professional experience. Currently working with **[Capgemini](https://www.capgemini.com/)**.  
 
-- <img src="https://img.icons8.com/officel/16/000000/machine-learning.png"/> Experienced in **Backend Development**, **Python & Django**, **Microservices**, and **Machine Learning**.  
+- 💯Experienced in **BackEnd Development**, **FrontEnd Development**, **Application Development**, **Microservices**, and **DevOps**.  
 
-- <img src="https://img.icons8.com/color/16/000000/goal.png"/> Passionate about building secure, scalable web applications and exploring data-driven solutions to real-world problems.  
+- 🎯Passionate about building secure & scalable web applications and exploring data-driven solutions to real-world problems.  
 
-- 📫 You can reach me via **kamiyabhusenbhatt@gmail.com**  
-
----
+- 📫You can reach me via **kamiyabhusain.25@gmail.com**  
 
 <h2>💻 Languages & Tools:</h2>
 
@@ -38,7 +34,16 @@
 
 <h2>📊 My Skills:</h2>
 
-- **Backend Development**: Python, Django, Java, Spring Boot  
+<h3> Programming Languages </h3>
+<img align="left" src="https://img.icons8.com/color/48/python--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img align="left" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+
+
+<br><br><br>
 - **Frontend Development**: React.js, AngularJS, HTML/CSS, Bootstrap  
 - **Databases**: MySQL, MongoDB, Redis, SQLite  
 - **Cloud & Tools**: Docker, Microsoft Azure, Git, Visual Studio Code  
