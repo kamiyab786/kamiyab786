@@ -1,5 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/AsZVQ4K.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kamiyab Husen Bhatt</h1>
 
