@@ -1,5 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/telecommuting-concept_23-2148488790.jpg?t=st=1733650250~exp=1733653850~hmac=9e2454f892c64f6bdb38b4a263178cf48bd2250290f72dfb33a9450a94b321e2&w=740" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/telecommuting-concept_23-2148488790.jpg?t=st=1733650250~exp=1733653850~hmac=9e2454f892c64f6bdb38b4a263178cf48bd2250290f72dfb33a9450a94b321e2&w=740" height="130px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kamiyab Husen Bhatt</h1>
 
