@@ -35,15 +35,24 @@
 <h2>📊 My Skills:</h2>
 
 <h3> Programming Languages </h3>
-<img align="left" src="https://img.icons8.com/color/48/python--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img align="left" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
+<img align="left" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/>
+<img align="left" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
+<img align="left" src="https://img.icons8.com/color/48/c-programming.png" alt="c"/>
+<img align="left" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c++"/>
+<img align="left" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5"/>
+<img align="left" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<br><br>
 
+<h3> Frameworks </h3>
+<img align="left" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+<img align="left" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
+<img align="left" height="50" src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="django-rest-framework"/>
+<img align="left" height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi"/>
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/900px-Pytest_logo.svg.png?20220319015434" alt="c++"/>
+<img align="left" height="50" src="https://www.django-rest-framework.org/img/logo.png" alt="html5"/>
+<img align="left" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
-<br><br><br>
 - **Frontend Development**: React.js, AngularJS, HTML/CSS, Bootstrap  
 - **Databases**: MySQL, MongoDB, Redis, SQLite  
 - **Cloud & Tools**: Docker, Microsoft Azure, Git, Visual Studio Code  
